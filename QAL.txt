@@ -1,0 +1,23 @@
+on the solid edge folder
+2.Then click on new draft
+3.A new page will open 
+Down left corner there is a option called sheet
+4.Right click on it
+5. Click on sheet setup there
+6. A dialogue box opens
+7. Now the size must be set to A4 wide (297-210) mm
+8. Then click on background option
+9. Set the sheet to A4 wide size
+10. Click on save default
+11. And then click "OK"
+The sheet set up has been done to A 4 wide.... Now click on FIT option to fit the sheet on the screen
+
+
+
+
+
+[8:47 am, 04/05/2023] 🖤👑 Napoleon 👑🖤: XY 0.15
+[8:47 am, 04/05/2023] 🖤👑 Napoleon 👑🖤: Line 0.05
+[8:47 am, 04/05/2023] 🖤👑 Napoleon 👑🖤: Plane 0.04
+[8:47 am, 04/05/2023] 🖤👑 Napoleon 👑🖤: True  0.34
+[8:47 am, 04/05/2023] 🖤👑 Napoleon 👑🖤: Appraent 0.04
